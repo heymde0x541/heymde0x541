@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on to get into cloud stuff
 - 🌱 I’m currently learning ... 418 hehehe
-- 📫 How to reach me: [twitter](https://twitter.com/heymde0x541)
+- 📫 How to reach me: [Twitter](https://twitter.com/heymde0x541)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: facts are facts. but how?
 

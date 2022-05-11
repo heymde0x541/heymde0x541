@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on to get into cloud stuff
+- 🌱 I’m currently learning ... 418 hehehe
+- 📫 How to reach me: [twitter](https://twitter.com/heymde0x541)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: facts are facts. but how?
+
 <!--
 **heymde0x541/heymde0x541** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

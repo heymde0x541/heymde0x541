@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on to get into cloud stuff
+- 🛠️ Skills : Basic knowledge and experience with C, Python, Go and Linux sysadmin stuff.
 - 🌱 I’m currently learning ... 418 hehehe
 - 📫 How to reach me: [Twitter](https://twitter.com/heymde0x541)
 - 😄 Pronouns: he/him
